@@ -1,4 +1,4 @@
-<h1 align="center">MERN Netflix Clone 🎬</h1>
+<!-- <h1 align="center">MERN Netflix Clone 🎬</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
@@ -68,4 +68,4 @@ npm run start
 -   06:24:40 - Detailed Deployment Guide
 -   06:48:53 - Oops! I almost forgot this... bye
 
-### I'll see you in the next one! 🚀
+### I'll see you in the next one! 🚀 -->
